@@ -35,11 +35,11 @@ section :)
 Tasks[^1]
 ---------
 
-[ ] Turn grayscale mode ON/OFF with the touch of a button
-[ ] Turn it on/off with at set times
-[ ] Turn it on/off at sunrise/sunset
-[ ] Temporally turn it off until end of session
-[ ] Log & export usage
-[ ] Upload it to the Store
-[ ] Add as a menu widget
-[ ] Make it iOS compatible
+* [ ] Turn grayscale mode ON/OFF with the touch of a button
+* [ ] Turn it on/off with at set times
+* [ ] Turn it on/off at sunrise/sunset
+* [ ] Temporally turn it off until end of session
+* [ ] Log & export usage
+* [ ] Upload it to the Store
+* [ ] Add as a menu widget
+* [ ] Make it iOS compatible
